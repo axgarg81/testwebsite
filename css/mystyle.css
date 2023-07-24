@@ -1,0 +1,45 @@
+.head{
+    display: block;
+    background-color: #ffe4c4;   
+    text-align: center; 
+}
+.head li{
+    float:left;
+}
+.head ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ffe4c4;
+    
+}
+.head li a{
+    display: block;
+    color: black;
+    background-color: #ffe4c4;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+#logo{
+    float: left;
+    width: 150px;
+    height: 100%;
+}
+.menu{
+    width: 100%;
+}
+body{
+    background-color: #ffe4c4;
+}
+.order table{
+    width: 100%;
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+.order th, td{
+    border: 1px solid red;
+}
+.order img{
+    width: 100%;
+    height: 150px;
+}
